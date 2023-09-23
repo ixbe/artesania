@@ -18,3 +18,7 @@ Modificar: permite cambiar datos de la informacion
 eliminar :permite eliminar los datos que no deseas
 
 ![image](https://github.com/ixbe/artesania/assets/145864395/4f581f30-8a40-4ea9-a9bc-a072d75f56c5)
+
+base de datos ingresados
+
+![image](https://github.com/ixbe/artesania/assets/145864395/6bd8b875-b8fa-4dee-a465-66d49c71fb36)
