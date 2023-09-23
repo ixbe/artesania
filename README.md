@@ -8,7 +8,7 @@ luego ingresa con el boton ingresar
 ![image](https://github.com/ixbe/artesania/assets/145864395/3f9d37d4-2449-40c3-8c3d-1774cf403526)
 
 
-1. ingreso de datos:
+1. Ingreso de datos:
 2. ingrese codigo del producto
 3. ingrese nombre del producto que se vendera
 4. introduce el precio del producto
